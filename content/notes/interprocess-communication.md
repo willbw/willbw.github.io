@@ -1,7 +1,7 @@
 ---
 title: "Interprocess Communication"
 date: 2021-07-04T16:17:24+10:00
-draft: true
+# draft: true
 ---
 
 https://www.youtube.com/watch?v=Y_PNOmL_yqY
